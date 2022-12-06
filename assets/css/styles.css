@@ -244,4 +244,16 @@ footer a{
     .menu-spacing{
         display: none;
     }
+
+    .grid-main-heading{
+        margin-bottom: 1rem;
+        font-size: 4rem;
+    }
+    
+    .intro-text-content h2 {
+        font-size: 4rem;
+    }
+
 }
+
+
